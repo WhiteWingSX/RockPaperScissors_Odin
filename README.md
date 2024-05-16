@@ -28,4 +28,4 @@ To see the results you must open the browser console in which you will have to p
 
 In the following link you can see the landing page on the page available on GitHud:
 
-[Rock_Paper_Scissor]()
+[Rock_Paper_Scissor](https://whitewingsx.github.io/RockPaperScissors_Odin/)
